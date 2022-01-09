@@ -19,7 +19,7 @@
                     <img src="public/images/smart-mobi2.png" style="width: 100%;" class="img-fix f-logo" alt="smart-construction">
                 </a>
                 <div class="about-store">
-                 Shop Smart phone. Chất lượng - giá cả hợp lý
+                Thương hiệu - Chất lượng - Giá cả hợp lý
              </div>
          </div>
          <div class="col-xs-12 col-sm-6">
@@ -28,15 +28,15 @@
                 <ul class="list-unstyled">
                     <li class="clearfix">
                         <i class="fa fa-map-marker"></i>
-                        <span>33 Trần Xuân Soạn, Quận 7, TPHCM</span>
+                        <span>107 Nguyễn Phong Sắc, Cầu Giấy, Hà Nội</span>
                     </li>
                     <li class="clearfix">
                         <i class="fa fa-phone"></i>
-                        <span>0978651616 - 0981.334455</span>
+                        <span>0946445089</span>
                     </li>
                     <li class="clearfix">
                         <i class="fa fa-envelope"></i>
-                        <span><a href="mailto:vanhiepp1998@gmail.com">vanhiepp1998@gmail.com</a></span>
+                        <span><a href="mailto:vanhiepp1998@gmail.com">fafstore.smartphone@gmail.com</a></span>
                     </li>
                 </ul>
             </div>
@@ -52,7 +52,7 @@
             </ul>
         </div>
         <div class="col-xs-12 col-sm-6">
-           <!-- <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs=timeline&width=340&height=200&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=false&appId" width="340" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe> -->
+           <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs=timeline&width=340&height=200&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=false&appId" width="340" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
        </div>
    </div>
 </div>

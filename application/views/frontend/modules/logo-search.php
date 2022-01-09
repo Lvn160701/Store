@@ -6,10 +6,10 @@
     <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 search">
       <div class="contact-row">
         <div class="phone inline">
-          <i class="icon fa fa-phone"></i> (87) 888 888 868
+          <i class="icon fa fa-phone"></i> (+84) 0946445089
         </div>
         <div class="contact inline">
-          <i class="icon fa fa-envelope"></i> sale.smart.store.2019@gmail.com
+          <i class="icon fa fa-envelope"></i> fafstore.smartphone@gmail.com
         </div>
       </div>
       <form action="search" method="get" role="form">
@@ -36,7 +36,7 @@
        <div class="cart_header">
         <a href="gio-hang" title="Giỏ hàng">
          <span class="cart_header_icon">
-          <img src="<?php echo base_url() ?>public/images/cart2.png" alt="Cart">
+          <img src="<?php echo base_url() ?>public/images/cart1.png" alt="Cart" style="margin-bottom: 5px;">
         </span>
         <span class="box_text">
           <strong class="cart_header_count">Giỏ hàng <span>(<?php  

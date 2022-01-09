@@ -220,7 +220,7 @@ class Dangnhap extends CI_Controller {
         }
 
     }
-    $this->data['title']='Smart Store - Cập nhật mật khẩu mới';
+    $this->data['title']='FAF Store - Cập nhật mật khẩu mới';
     $this->data['view']='reset_password_new';
     $this->load->view('frontend/layout',$this->data);
 }

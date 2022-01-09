@@ -49,7 +49,7 @@
             </nav>
             <!--MD LG-->
         </div>
-        <div class="col-md-12 col-lg-12 panel-right hidden-xs text-center" style="background: #0f9ed8;">
+        <div class="col-md-12 col-lg-12 panel-right hidden-xs text-center" style="background: #E7A708;">
             <ul class="menu-right" style="display: inline-block;">
                 <li class="pull-left"><a href="">Trang chủ</a></li>
                 <li class="pull-left"><a href="san-pham">Sản phẩm</a></li>

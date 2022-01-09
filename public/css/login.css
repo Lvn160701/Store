@@ -29,7 +29,7 @@ body
 }
 
 h5{
-	color: #337ab7;
+	color: #E7A708;
 }
 
 .alert-success {
@@ -67,8 +67,8 @@ button.close {
 }   
 
 .btn-login{
-    background: #337ab7 !important;
-    border: 1px solid #337ab7 !important;
+    background: #E7A708 !important;
+    border: 1px solid #E7A708!important;
 }
 #login{
     width: 100%;

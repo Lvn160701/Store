@@ -203,7 +203,7 @@
     <div class="container">
         <div class="row-p">
             <div class="text-center">
-                <h2 class="sectin-title title title-blue">Tin tức công nghệ</h2>
+                <h2 class="sectin-title title title-blue">24H CÔNG NGHỆ</h2>
             </div>
         </div>
         <div class="blog-content">
